@@ -67,7 +67,7 @@ async def menfess(ctx):
         await ctx.author.send('BOT hanya menerima menfess melalui DM', delete_after=10)
 
 # Supaya bot gak mati
-#keep_alive()
-client.run('ODY5ODk2NDQ0MjIyNTA0OTYx.YQE4Mg.NhenqsxnYNFBB_EGegwRjdpVnxo')
+keep_alive()
+client.run('TOKEN')
 
 
